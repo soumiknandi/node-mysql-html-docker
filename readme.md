@@ -5,13 +5,13 @@ A simple project made using Node.js as the backend, MySQL as the database, and s
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/soumiknandi/node-mysql-html-docker.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd node-mysql-html-docker
 ```
 
 Build docker image
