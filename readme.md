@@ -43,6 +43,6 @@ API gateway link
 ##
 
 > [!IMPORTANT]
-> Make sure ports 3306, 3000, and 8080 are not used by other applications.
+> Make sure ports 3306, 3000, and 8080 are not in use by other applications.
 
 
